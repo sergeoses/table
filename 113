@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Список групи №113</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 20px;
+        }
+        .center-text {
+            text-align: center;
+            font-size: 18px;
+            margin-bottom: 5px;
+        }
+        .left-text {
+            text-align: left;
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 5px;
+            margin-left: 5%;
+        }
+        table {
+            border-collapse: collapse;
+            width: 90%;
+            margin: 20px auto;
+            font-size: 16px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        .name-col {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="center-text">Список групи №113</div>
+    <div class="center-text">На отримання учнівських квитків</div>
+    <br>
+    <div class="left-text">Майстер виробничого навчання – Онопко Віктор Миколайович</div>
+    <div class="left-text">Керівник групи – Чирка Андрій Петрович</div>
+    <br>
+
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 5%;">№<br>п/п</th>
+                <th style="width: 45%;">Прізвище, ім'я, по батькові</th>
+                <th style="width: 15%;">Дата<br>народження</th>
+                <th colspan="2" style="width: 35%;">Примітка</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td class="name-col">Безкоровайний Євгеній Миколайович</td>
+                <td>26.02.2011</td>
+                <td>120 грн</td>
+                <td>Фото</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td class="name-col">Єршов Богдан Олександрович</td>
+                <td>13.11.2010</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td class="name-col">Вакалюк Дмитро Антонович</td>
+                <td>08.10.2010</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td class="name-col">Грудницький Данило Євгенович</td>
+                <td>31.07.2010</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td class="name-col">Завальний Віталій Валерійович</td>
+                <td>26.03.1978</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td class="name-col">Зіленко Максим Юрійович</td>
+                <td>07.05.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td class="name-col">Коньоші Назар Олександрович</td>
+                <td>18.07.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td class="name-col">Костейчук Микола Дмитрович</td>
+                <td>26.02.2010</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td class="name-col">Лазаренко Артем Олександрович</td>
+                <td>11.12.2010</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td class="name-col">Лучицький Даніїл Сергійович</td>
+                <td>25.04.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td class="name-col">Любінецький Андрій Олегович</td>
+                <td>01.09.2010</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td class="name-col">Падалка Дмитро Сергійович</td>
+                <td>22.09.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td class="name-col">Панов Максим Олександрович</td>
+                <td>16.02.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td class="name-col">Перехрестенко Артем Дмитрович</td>
+                <td>25.04.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td class="name-col">Панич Гордій Едуардович</td>
+                <td>16.07.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td class="name-col">Плахута Віталій Володимирович</td>
+                <td>16.02.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td class="name-col">Скринський Денис Володимирович</td>
+                <td>30.01.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td class="name-col">Сулига Владислав Михайлович</td>
+                <td>02.01.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td class="name-col">Сухар Олексій Ярославович</td>
+                <td>02.02.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td class="name-col">Тягур Євгеній Юрійович</td>
+                <td>18.01.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>21</td>
+                <td class="name-col">Читак Іван Іванович</td>
+                <td>21.02.2010</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>22</td>
+                <td class="name-col">Шафаренко Ілля Дмитрович</td>
+                <td>04.06.2009</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>23</td>
+                <td class="name-col">Швецов Олексій Валерійович</td>
+                <td>24.12.2010</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>24</td>
+                <td class="name-col">Штика Юрій Андрійович</td>
+                <td>13.01.1985</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>25</td>
+                <td class="name-col">Яновський Данило Ігорович</td>
+                <td>11.03.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>26</td>
+                <td class="name-col">Ярмоленко Назар Анатолійович</td>
+                <td>21.02.2011</td>
+                <td>120 грн</td>
+                <td>+</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
